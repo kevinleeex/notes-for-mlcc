@@ -5,6 +5,7 @@
 就我个人而言，我更愿意称这门课程为：给工程师或开发者准备的机器学习课程，课程结合了理论与实践，并在两者之间有很好的权衡。
 
 ## 下载
+> ⚠️ 现在不可用
 - [PDF](./publish/kl_notes_for_mlcc.pdf)
 - [ePub](./publish/kl_notes_for_mlcc.epub)
 
@@ -20,6 +21,9 @@
 - [8.Regularization for Simplicity](./notes/8.Regularization_for_Simplicity.md)
 - [9.Logistic Regression](./notes/9.Logistic_Regression.md)
 - [10.Classification](./notes/10.Classification.md)
+- [11.Regularization_for_Sparsity](./notes/11.Regularization_for_Sparsity.md)
+- [12.Hello_Neural_Networks.md](./notes/12.Hello_Neural_Networks.md)
+- [13.Training_Neural_Networks.md](./notes/13.Training_Neural_Networks.md)
 
 ## 版权声明
 本仓库下的所有文章均受[Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/)版权保护。
