@@ -56,10 +56,6 @@ $$\{x_1,x_2,\dots,x_N\}$$
 - 垃圾邮件还是非垃圾邮件？
 - 一张图片是热狗还是不是热狗？
 
-## 导航
-
-[返回目录](../README.md) | [上一节 00-Preparing](./00-preparing.md) | [下一节 02-Descending_into_ML](./02-descending_into_ml.md)
-
 
 ## 导航
 
