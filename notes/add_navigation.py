@@ -1,3 +1,6 @@
+# !/usr/bin/env python3
+# author: Kevin T. Lee<hello@lidengju.com>
+
 import os
 import glob
 
@@ -15,10 +18,21 @@ for ix, item in enumerate(md_list):
             add_nav = False
             break
     print(add_nav, ix)
-    if add_nav and ix > 0 and ix < 18:
-        out_str = nav_md_str.format(process_md_list[ix-1][:-3],
-        md_list[ix-1],
-        process_md_list[ix+1][:-3], 
-        md_list[ix+1])
-
+    if add_nav:
+        out_str = ""
+        if ix == 0:
+            out_str = nav_md_str.format("",
+                                        "",
+                                        process_md_list[ix+1][:-3], 
+                                        md_list[ix+1])
+        if 0<ix<18:
+            out_str = nav_md_str.format(process_md_list[ix-1][:-3],
+                                        md_list[ix-1],
+                                        process_md_list[ix+1][:-3], 
+                                        md_list[ix+1])
+        if ix == 18:
+            out_str = nav_md_str.format(process_md_list[ix-1][:-3],
+                            md_list[ix-1],
+                            "", 
+                            "")
         f.write(out_str)

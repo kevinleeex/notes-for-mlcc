@@ -8,7 +8,7 @@
 
 ## 下载
 
-> ⚠️ 现在不可用
+> Pandoc模板出了点问题，这是手动构建的临时版本。
 - [PDF](./publish/kl_notes_for_mlcc.pdf)
 
 ## 开始阅读
