@@ -2,11 +2,11 @@
 
 - 了解反向传播算法
 
-## 训练神经网络
+# 第13节 训练神经网络
 
 **反向传播算法(Back propagation)**是最常见的一种神经网络训练算法，一个直观的可视化的例子：[反向传播直观解释](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 
-### 失败案例(Failure Cases)
+## 13.1. 失败案例(Failure Cases)
 
 下面展示了几种常见的BP出错的情况
 
@@ -29,7 +29,7 @@
   一旦ReLU单元的加权和低于0，ReLU单元就可能会停滞。它会输出对网络没有任何贡献的0激活，而梯度在反向传播算法期间将无法再从中流过。梯度的来源被切断，ReLU的输入可能无法作出足够的改变来使加权和恢复到0以上。
 
   **降低学习速率有助于防止ReLU单元消失**。
-### Dropout正则化
+## 13.2. Dropout正则化
 
 **丢弃(Dropout)**是另一种形式的正则化，可用于神经网络。工作原理是，在梯度下降法的**每一步**中随机丢弃一些网络单元。丢弃得越多，正则化效果越强：
 
@@ -37,7 +37,7 @@
 - **1.0**: 丢弃所有内容，模型学不到任何内容
 - **0.0~1.0**之间的值更有用
 
-### 最佳实践(Best Practices)
+## 13.3. 最佳实践(Best Practices)
 
 - ReLU
 - Batch-Normalization
