@@ -11,7 +11,7 @@
 ## 下载
 
 > Pandoc模板出了点问题，这是手动构建的临时版本。
-- [PDF](./publish/notes_for_mlcc.pdf)
+- [PDF](./publish/notes-for-mlcc.pdf)
 
 ## 开始阅读
 
