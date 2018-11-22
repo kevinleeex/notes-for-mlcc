@@ -230,3 +230,8 @@ ROC曲线用于绘制不同分类阈值的TPR和FPR。降低分类阈值会导�
 
 编程参见[classification.ipynb](../code/classification.ipynb)
 
+
+
+## 导航
+
+ [返回目录](../README.md) | [上一节 09-logistic_regression](./09-logistic_regression.md) | [下一节 11-regularization_for_sparsity](./11-regularization_for_sparsity.md)

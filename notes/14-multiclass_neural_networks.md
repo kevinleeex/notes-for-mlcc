@@ -91,3 +91,7 @@ Softmax假设每个样本只能属于一个类别。但是，一些样本可以�
 
 
 编程参见[mnist.ipynb](../code/mnist.ipynb)
+
+## 导航
+
+ [返回目录](../README.md) | [上一节 13-training_neural_networks](./13-training_neural_networks.md) | [下一节 15-embeddings](./15-embeddings.md)

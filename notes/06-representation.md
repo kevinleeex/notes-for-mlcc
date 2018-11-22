@@ -197,3 +197,7 @@
 谨慎处理数据，**良好的机器学习模型依赖于良好的数据**。
 
 编程参见: [feature_sets.ipynb](../code/feature_sets.ipynb)
+
+## 导航
+
+ [返回目录](../README.md) | [上一节 05-validation](./05-validation.md) | [下一节 07-feature_crosses](./07-feature_crosses.md)

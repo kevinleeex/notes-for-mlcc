@@ -87,3 +87,9 @@ $$MSE=\frac{1}{N}\sum_{(x,y)\in{D}}{(y-prediction(x))^2}$$
 ## 导航
 
 [返回目录](../README.md) | [上一节 01-Framing](./01-framing.md) | [下一节 03-Hello_TensorFlow](./03-hello_tensorflow.md)
+
+
+
+## 导航
+
+ [返回目录](../README.md) | [上一节 01-framing](./01-framing.md) | [下一节 03-hello_tensorflow](./03-hello_tensorflow.md)

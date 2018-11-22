@@ -3,10 +3,8 @@
 > - 复习机器学习基本术语
 > - 了解机器学习各种用途
 
-# 第1节 问题构建
-<!-- TOC depthFrom:2 depthTo:3 orderedList:true updateOnSave:false -->
+# 第1节 问题构建(Framing)
 
-<!-- /TOC -->
 监督机器学习可简单定义如下：
 - 机器学习系统通过学习如何组合输入信息来对从未见过的数据做出有用的预测。
 
@@ -28,7 +26,7 @@ $$\{x_1,x_2,\dots,x_N\}$$
 **样本**是指数据的特定实例，**x**，分为：
   - 有标签样本
   - 无标签样本
-  
+
 **有标签样本**包含特征和标签。以加州房价数据集为例。
 
 | housingMedianAge<br>（特征） | totalRooms<br>（特征）| totalBedrooms<br>（特征） | medianHouseValue<br>（标签）|
@@ -61,3 +59,8 @@ $$\{x_1,x_2,\dots,x_N\}$$
 ## 导航
 
 [返回目录](../README.md) | [上一节 00-Preparing](./00-preparing.md) | [下一节 02-Descending_into_ML](./02-descending_into_ml.md)
+
+
+## 导航
+
+ [返回目录](../README.md) | [上一节 00-preparing](./00-preparing.md) | [下一节 02-descending_into_ml](./02-descending_into_ml.md)

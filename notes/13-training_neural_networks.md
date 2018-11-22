@@ -45,3 +45,7 @@
 - Dropout
 
 编程参见[improving_nn_performance.ipynb](../code/improving_nn_performance.ipynb)
+
+## 导航
+
+ [返回目录](../README.md) | [上一节 12-hello_neural_networks](./12-hello_neural_networks.md) | [下一节 14-multiclass_neural_networks](./14-multiclass_neural_networks.md)

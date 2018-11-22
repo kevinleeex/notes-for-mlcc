@@ -195,3 +195,7 @@
 ![image-20181122131942623](assets/image-20181122131942623-2863982.png)
 
 **图6.嵌入层权重的几何视图**
+
+## 导航
+
+ [返回目录](../README.md) | [上一节 14-multiclass_neural_networks](./14-multiclass_neural_networks.md) | [下一节 16-ml_engineering](./16-ml_engineering.md)

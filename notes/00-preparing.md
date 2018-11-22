@@ -1,7 +1,4 @@
-<!-- TOC depthFrom:2 depthTo:3 orderedList:true updateOnSave:false -->
-
-<!-- /TOC -->
-# 第0节 前提准备
+# 第0节 前提准备(Preparing)
 
 ## 0.1. Pandas 使用入门
 

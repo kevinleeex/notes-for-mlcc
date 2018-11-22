@@ -95,3 +95,8 @@ A：
 
   > L2 正则化不会倾向于使权重正好为 0.0。L2 正则化降低较大权重的程度高于降低较小权重的程度。随着权重越来越接近于 0.0，L2将权重“推”向 0.0 的力度越来越弱。
 
+
+
+## 导航
+
+ [返回目录](../README.md) | [上一节 07-feature_crosses](./07-feature_crosses.md) | [下一节 09-logistic_regression](./09-logistic_regression.md)

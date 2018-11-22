@@ -39,3 +39,8 @@ L2 和 L1 采用不同的方式降低权重：
 
 编程参见[l1_regularization.ipynb](../code/l1_regularization.ipynb)
 
+
+
+## 导航
+
+ [返回目录](../README.md) | [上一节 10-classification](./10-classification.md) | [下一节 12-hello_neural_networks](./12-hello_neural_networks.md)

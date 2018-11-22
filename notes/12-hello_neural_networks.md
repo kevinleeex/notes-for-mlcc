@@ -104,3 +104,7 @@
 - **激活函数**，对层中每个节点的输出进行转换。不同的层可能拥有不同的激活函数
 
 编程参见：[intro_to_neural_networks.ipynb](../code/intro_to_neural_networks.ipynb)
+
+## 导航
+
+ [返回目录](../README.md) | [上一节 11-regularization_for_sparsity](./11-regularization_for_sparsity.md) | [下一节 13-training_neural_networks](./13-training_neural_networks.md)

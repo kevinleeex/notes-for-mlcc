@@ -30,3 +30,8 @@
 
 编程参看[validation.ipynb](../code/validation.ipynb)
 
+
+
+## 导航
+
+ [返回目录](../README.md) | [上一节 04-generalization](./04-generalization.md) | [下一节 06-representation](./06-representation.md)

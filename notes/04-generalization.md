@@ -46,3 +46,8 @@
 - 测试集规模越大，我们对于评估指标的信心就越充足，置信区间就越窄。 
 
 一定不要对测试数据进行训练 
+
+
+## 导航
+
+ [返回目录](../README.md) | [上一节 03-hello_tensorflow](./03-hello_tensorflow.md) | [下一节 05-validation](./05-validation.md)

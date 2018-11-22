@@ -44,7 +44,14 @@ predictions = classifier.predict(input_fn=predict_input_fn)
 
 
 
-
-
 编程参看[first_step_with_tensorflow.ipynb](../code/first_step_with_tensorflow.ipynb)
 
+
+
+## 导航
+
+[返回目录](../README.md) | [上一节 02-Descending_into_ML.md](./02-descending_into_ml.md) | [下一节 04-Generalization](./04-generalization.md)
+
+## 导航
+
+ [返回目录](../README.md) | [上一节 02-descending_into_ml](./02-descending_into_ml.md) | [下一节 04-generalization](./04-generalization.md)

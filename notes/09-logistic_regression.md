@@ -74,3 +74,7 @@ $$LogLoss = \sum_{(x,y)\in D}{-ylog(y')-(1-y)log(1-y')}$$
 - 逻辑回归模型会生成概率
 - 逻辑回归的损失函数是对数损失
 - 逻辑回归模型被业界广泛使用
+
+## 导航
+
+ [返回目录](../README.md) | [上一节 08-regularization_for_simplicity](./08-regularization_for_simplicity.md) | [下一节 10-classification](./10-classification.md)
