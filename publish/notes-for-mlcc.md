@@ -171,8 +171,6 @@ $$\{x_1,x_2,\dots,x_N\}$$
 
 
 
-
-
 <div style="page-break-after: always;"></div>
 > 学习目标：
 >
@@ -263,9 +261,6 @@ $$MSE=\frac{1}{N}\sum_{(x,y)\in{D}}{(y-prediction(x))^2}$$
 
 
 
-
-
-
 <div style="page-break-after: always;"></div>
 > 学习目标：
 >
@@ -314,8 +309,6 @@ predictions = classifier.predict(input_fn=predict_input_fn)
 
 
 编程参看[first_step_with_tensorflow.ipynb](../code/first_step_with_tensorflow.ipynb)
-
-
 
 
 
@@ -1843,7 +1836,7 @@ Softmax假设每个样本只能属于一个类别。但是，一些样本可以�
 
 
 <div style="page-break-after: always;"></div>
-# 第18节 后续步骤
+# 第18节 后续步骤(Next Steps)
 
 要继续机器学习培训，进一步巩固您的 TensorFlow 技能，请查看以下资源：
 

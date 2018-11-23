@@ -17,7 +17,7 @@ pdf:
 
 markdown:
 	@echo "Copy markdown assets"
-	@cp -r ../notes/assets/ . 
+	@cp -r ../notes/assets/ ./assets/ 
 	@echo "Merge markdown files..."
 	@python3 merge_md.py
 
