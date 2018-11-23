@@ -1,10 +1,13 @@
-# !/usr/bin/env python3
+#!/usr/bin/env python3
 # author: Kevin T. Lee<hello@lidengju.com>
+# description: add navigation for markdown files.
 
 import os
 import glob
 
 ignores = ['导航']
+
+# glob the md files and sort them
 md_list = sorted(glob.glob("./*.md"))
 process_md_list = [x[2:] for x in md_list]  # remove ./
 print(process_md_list)

@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 .DS_Store
+^template.tex
+template.*
+missfont.log

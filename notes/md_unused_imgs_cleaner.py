@@ -1,6 +1,6 @@
-# !/usr/bin/env python3
+#!/usr/bin/env python3
 # author: Kevin T. Lee<hello@lidengju.com>
-# used for clean the unused imgs
+# description: used for clean the unused imgs
 
 import os
 import glob

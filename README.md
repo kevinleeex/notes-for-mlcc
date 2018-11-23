@@ -10,7 +10,7 @@
 
 ## 下载
 
-> Pandoc模板出了点问题，这是手动构建的临时版本。
+> 使用Pandoc构建的PDF
 - [PDF](./publish/notes-for-mlcc.pdf)
 
 ## 开始阅读
@@ -27,8 +27,8 @@
 - [9.Logistic Regression](./notes/09-logistic_regression.md)
 - [10.Classification](./notes/10-classification.md)
 - [11.Regularization_for_Sparsity](./notes/11-regularization_for_sparsity.md)
-- [12.Hello_Neural_Networks.md](./notes/12-hello_neural_networks.md)
-- [13.Training_Neural_Networks.md](./notes/13-training_neural_networks.md)
+- [12.Hello_Neural_Networks](./notes/12-hello_neural_networks.md)
+- [13.Training_Neural_Networks](./notes/13-training_neural_networks.md)
 - [14.Multi-class Neural Networks](./notes/14-multiclass_neural_networks.md)
 - [15.Embeddings](./notes/15-embeddings.md)
 - [16.Machine Learning Engineering](./notes/16-ml_engineering.md)

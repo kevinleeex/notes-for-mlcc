@@ -2,18 +2,19 @@ title = 'Notes For MLCC'
 filename = 'notes-for-mlcc'
 outputname = 'notes-for-mlcc'
 
-all: pdf
+all: markdown
+	 pdf
 
 pdf:
 	@echo "Compiling PDF file..."
 	@pandoc -s $(filename).md -o $(filename).pdf \
 		--title-prefix $(title) \
-		--listings -H meta/py-listing.tex \
 		--template=meta/template.tex \
-		-f markdown+smart \
+		--listings \
+		-f markdown+smart-implicit_figures \
 		--pdf-engine=`which xelatex`
 	@echo "Done."
-	@rm *.md
+	@rm *.md assets/
 
 markdown:
 	@echo "Copy markdown assets"

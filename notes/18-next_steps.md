@@ -26,9 +26,9 @@
 
 已准备好开始运用新掌握的机器学习技能来应对数据科学领域面临的现实挑战了吗？ 您可以在 [Kaggle](https://www.kaggle.com/) 上的众多比赛中一试身手！
 
-<button><a href="https://www.kaggle.com/competitions">报名参加Kaggle</a></button>
+[报名参加Kaggle](https://www.kaggle.com/competitions)
+[报名参加天池](https://tianchi.aliyun.com/competition/)
 
-<button><a href="https://tianchi.aliyun.com/competition/index.htm">报名参加天池</a></button>
 
 ## 导航
 
