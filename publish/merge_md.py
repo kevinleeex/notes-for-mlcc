@@ -17,7 +17,7 @@ logo: "./meta/tf.png"
 logo-width: 200
 ...\n\n"""
 
-md_list = sorted(glob.glob("../notes/*.md"))
+md_list = sorted([x for x in glob.glob("../notes/*.md") if "README" not in x and "readme" not in x])
 md_list_processed = [os.path.split(x)[1] for x in md_list]
 
 print(md_list_processed)
