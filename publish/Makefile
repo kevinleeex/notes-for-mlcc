@@ -14,7 +14,7 @@ pdf:
 		-f markdown+smart-implicit_figures \
 		--pdf-engine=`which xelatex`
 	@echo "Done."
-	@rm *.md assets/
+	@rm -r *.md assets/
 
 markdown:
 	@echo "Copy markdown assets"
